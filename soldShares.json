@@ -1,0 +1,14 @@
+{
+  "soldList": [
+    {
+      "name": "ail",
+      "price": 10.0,
+      "units": 482.0
+    },
+    {
+      "name": "nric",
+      "price": 843.0,
+      "units": 20.0
+    }
+  ]
+}
